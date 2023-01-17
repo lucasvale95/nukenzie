@@ -8,8 +8,6 @@ Assim o usuário tem total controle sobre suas finanças.
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
 * [React](https://pt-br.reactjs.org/) - O framework web usado
 
 
